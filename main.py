@@ -53,7 +53,7 @@ LOCK = threading.Lock()
 #  CREDITS
 # ==========================================================
 
-CREDIT_BOT = "Aetherhu_bot"
+CREDIT_BOT = "finxzzcntctbot"
 
 # Actions with TIMER support
 TIMER_ACTIONS = ("react", "react_vote", "react_vote_view", "vote",
